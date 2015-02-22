@@ -39,10 +39,13 @@ S3 pre-signed URLs
 
 3.  To execute the downloaded code use the following command ``python s3-signed-url.py``
 
-Support
--------------------
+Support and References
+----------------------
 Use this script at your own risk.
 
-a.	https://aws.amazon.com/premiumsupport/
+a.	https://aws.amazon.com/premiumsupport/  
+b.	https://www.python.org/  
+c.	http://aws.amazon.com/python/  
+d.	http://aws.amazon.com/sdk-for-python/  
+e.	https://boto.readthedocs.org/en/latest/  
 
-b.	https://www.python.org/
